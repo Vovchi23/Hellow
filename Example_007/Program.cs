@@ -1,13 +1,13 @@
 ﻿Console.Clear();
-Console.SetCursorPosition(10, 4);
-Console.WriteLine("+");
+//Console.SetCursorPosition(10, 4);
+//Console.WriteLine("+");
 
 int xa = 1;
 int ya = 1;
 int xb = 1;
-int yb = 30;
-int xc = 40;
-int yc = 30;
+int yb = 20;
+int xc = 30;
+int yc = 20;
 
 Console.SetCursorPosition(xa, ya);
 Console.WriteLine("+");
